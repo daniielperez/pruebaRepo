@@ -3,7 +3,7 @@
   "lang": "en",
   "name": "Angular PWA Course",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url": "http://localhost:8080/",
   "short_name": "Angular PWA Course",
   "theme_color": "transparent",
