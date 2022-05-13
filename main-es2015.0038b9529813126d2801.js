@@ -19154,7 +19154,7 @@
                   Zm,
                   tg,
                   Rp,
-                  Gu.register("/ngsw-worker.js", {
+                  Gu.register("/pruebaRepo/ngsw-worker.js", {
                     enabled: !0,
                     registrationStrategy: "registerImmediately",
                   }),
