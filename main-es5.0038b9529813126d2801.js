@@ -27598,7 +27598,7 @@ function _createClass(e, t, n) {
                 My,
                 Zy,
                 _v,
-                bc.register("/ngsw-worker.js", {
+                bc.register("/pruebaRepo/ngsw-worker.js", {
                   enabled: !0,
                   registrationStrategy: "registerImmediately",
                 }),
