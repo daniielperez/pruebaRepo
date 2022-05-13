@@ -15,7 +15,11 @@
   "icons": [
     {
       "src": "/pruebaRepo/assets/favicon-16x16.png",
-      "sizes": "16x16 32x32"
+      "sizes": "16x16"
+    },
+    {
+      "src": "/pruebaRepo/assets/favicon-12x32.png",
+      "sizes": "32x32"
     },
     {
       "src": "/pruebaRepo/assets/android-icon-36x36.png",
